@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import axios from 'axios';
 
-axios.defaults.baseURL = 'https://pgas-backend.herokuapp.com/api/';
+axios.defaults.baseURL = 'https://pgas-backend.herokuapp.com/';
 
 ReactDOM.render(
   <React.StrictMode>
